@@ -1,2 +1,2 @@
 # Financial-Advisor
-financial advisor system
+"Backend for Financial Advisor Management System using Spring Boot"
